@@ -1,0 +1,25 @@
+body {
+  background-image:url('background.png');
+  background-repeat:repeat;
+  color: white;
+}
+h1 {
+  margin:0;
+  background-color: black;
+  font-size: 200px;
+}
+h2 {
+  margin:0;
+  background-color: black;
+  font-size: 100px;
+}
+p {
+  margin:0;
+  padding: 5px;
+  background-color: black;
+  font-size: 30px;
+}
+img {
+ padding: 0;
+ margin: 0;
+}
